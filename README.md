@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @joaogomescosta
-- 👀 I’m interested in Data Engineering, Python, SQL, RDBS, NoSQL databases, Big Data, Machine Learning, Spark, Hadoop, Kafka, AirFlow, Database Administration, Data       warehousing and BI analytics.
+- 👀 I’m interested in Data Engineering, Python, SQL, RDBS, NoSQL databases, Big Data, Machine Learning, Spark, Hadoop, Kafka, AirFlow, Database Administration, Data       Warehousing and BI Analytics.
 - 🌱 I’m currently looking for my first opportunity as a Data Engineer.
 - 📫 You can reach me at joao.costa@outlook.pt
